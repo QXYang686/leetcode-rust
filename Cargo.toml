@@ -2,6 +2,7 @@
 
 members = [
     "two-sum",
+    "add-two-numbers", # 2
     "minimum-swaps-to-make-sequences-increasing", # 801
     "score-of-parentheses", # 856
 ]
