@@ -7,6 +7,10 @@ name = "add-two-numbers"
 version = "0.1.0"
 
 [[package]]
+name = "check-if-one-string-swap-can-make-strings-equal"
+version = "0.1.0"
+
+[[package]]
 name = "minimum-swaps-to-make-sequences-increasing"
 version = "0.1.0"
 

@@ -5,4 +5,5 @@ members = [
     "add-two-numbers", # 2
     "minimum-swaps-to-make-sequences-increasing", # 801
     "score-of-parentheses", # 856
+    "check-if-one-string-swap-can-make-strings-equal", # 1790
 ]
