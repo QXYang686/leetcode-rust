@@ -15,6 +15,10 @@ name = "linked-list-components"
 version = "0.1.0"
 
 [[package]]
+name = "max-chunks-to-make-sorted"
+version = "0.1.0"
+
+[[package]]
 name = "minimum-swaps-to-make-sequences-increasing"
 version = "0.1.0"
 
