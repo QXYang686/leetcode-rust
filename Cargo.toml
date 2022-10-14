@@ -7,5 +7,6 @@ members = [
     "minimum-swaps-to-make-sequences-increasing", # 801
     "linked-list-components", # 817
     "score-of-parentheses", # 856
+    "distinct-subsequences-ii", # 940
     "check-if-one-string-swap-can-make-strings-equal", # 1790
 ]
