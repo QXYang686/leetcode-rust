@@ -8,5 +8,6 @@ members = [
     "linked-list-components", # 817
     "score-of-parentheses", # 856
     "distinct-subsequences-ii", # 940
+    "build-an-array-with-stack-operations", # 1441
     "check-if-one-string-swap-can-make-strings-equal", # 1790
 ]
