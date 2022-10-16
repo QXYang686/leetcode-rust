@@ -31,6 +31,10 @@ name = "minimum-swaps-to-make-sequences-increasing"
 version = "0.1.0"
 
 [[package]]
+name = "possible-bipartition"
+version = "0.1.0"
+
+[[package]]
 name = "score-of-parentheses"
 version = "0.1.0"
 
