@@ -35,6 +35,10 @@ name = "minimum-swaps-to-make-sequences-increasing"
 version = "0.1.0"
 
 [[package]]
+name = "number-of-students-unable-to-eat-lunch"
+version = "0.1.0"
+
+[[package]]
 name = "numbers-at-most-n-given-digit-set"
 version = "0.1.0"
 
