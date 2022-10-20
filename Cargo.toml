@@ -4,6 +4,7 @@ members = [
     "two-sum",
     "add-two-numbers", # 2
     "max-chunks-to-make-sorted", # 769
+    "k-th-symbol-in-grammar", # 779
     "minimum-swaps-to-make-sequences-increasing", # 801
     "linked-list-components", # 817
     "score-of-parentheses", # 856
