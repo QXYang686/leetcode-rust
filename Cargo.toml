@@ -9,6 +9,7 @@ members = [
     "linked-list-components", # 817
     "score-of-parentheses", # 856
     "possible-bipartition", # 886
+    "online-stock-span", # 901
     "numbers-at-most-n-given-digit-set", # 902
     "fruit-into-baskets", # 904
     "distinct-subsequences-ii", # 940

@@ -47,6 +47,10 @@ name = "numbers-at-most-n-given-digit-set"
 version = "0.1.0"
 
 [[package]]
+name = "online-stock-span"
+version = "0.1.0"
+
+[[package]]
 name = "possible-bipartition"
 version = "0.1.0"
 
