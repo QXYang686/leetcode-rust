@@ -15,5 +15,6 @@ members = [
     "distinct-subsequences-ii", # 940
     "build-an-array-with-stack-operations", # 1441
     "number-of-students-unable-to-eat-lunch", # 1700
+    "merge-strings-alternately", # 1768
     "check-if-one-string-swap-can-make-strings-equal", # 1790
 ]
