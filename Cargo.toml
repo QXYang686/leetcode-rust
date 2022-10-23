@@ -13,6 +13,7 @@ members = [
     "numbers-at-most-n-given-digit-set", # 902
     "fruit-into-baskets", # 904
     "distinct-subsequences-ii", # 940
+    "maximum-profit-in-job-scheduling", # 1235
     "build-an-array-with-stack-operations", # 1441
     "number-of-students-unable-to-eat-lunch", # 1700
     "merge-strings-alternately", # 1768
