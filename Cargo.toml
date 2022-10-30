@@ -8,6 +8,7 @@ members = [
     "minimum-swaps-to-make-sequences-increasing", # 801
     "linked-list-components", # 817
     "score-of-parentheses", # 856
+    "shortest-subarray-with-sum-at-least-k", # 862
     "possible-bipartition", # 886
     "online-stock-span", # 901
     "numbers-at-most-n-given-digit-set", # 902
