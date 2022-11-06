@@ -18,6 +18,7 @@ members = [
     "distinct-subsequences-ii", # 940
     "maximum-profit-in-job-scheduling", # 1235
     "build-an-array-with-stack-operations", # 1441
+    "goal-parser-interpretation", # 1678
     "number-of-students-unable-to-eat-lunch", # 1700
     "merge-strings-alternately", # 1768
     "check-if-one-string-swap-can-make-strings-equal", # 1790
