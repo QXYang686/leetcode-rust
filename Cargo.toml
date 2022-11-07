@@ -7,6 +7,7 @@ members = [
     "k-th-symbol-in-grammar", # 779
     "letter-case-permutation", # 784
     "minimum-swaps-to-make-sequences-increasing", # 801
+    "ambiguous-coordinates", # 816
     "linked-list-components", # 817
     "score-of-parentheses", # 856
     "shortest-subarray-with-sum-at-least-k", # 862
