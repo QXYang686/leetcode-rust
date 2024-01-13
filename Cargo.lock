@@ -19,6 +19,10 @@ name = "check-if-one-string-swap-can-make-strings-equal"
 version = "0.1.0"
 
 [[package]]
+name = "construct-string-with-repeat-limit"
+version = "0.1.0"
+
+[[package]]
 name = "distinct-subsequences-ii"
 version = "0.1.0"
 
