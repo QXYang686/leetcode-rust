@@ -23,6 +23,10 @@ name = "construct-string-with-repeat-limit"
 version = "0.1.0"
 
 [[package]]
+name = "count-common-words-with-one-occurrence"
+version = "0.1.0"
+
+[[package]]
 name = "distinct-subsequences-ii"
 version = "0.1.0"
 
