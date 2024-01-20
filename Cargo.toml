@@ -25,4 +25,5 @@ members = [
     "check-if-one-string-swap-can-make-strings-equal", # 1790
     "construct-string-with-repeat-limit", # 2182
     "count-common-words-with-one-occurrence", # 2085
+    "minimum-time-to-make-array-sum-at-most-x", # 2809
 ]

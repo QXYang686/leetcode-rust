@@ -67,6 +67,10 @@ name = "minimum-swaps-to-make-sequences-increasing"
 version = "0.1.0"
 
 [[package]]
+name = "minimum-time-to-make-array-sum-at-most-x"
+version = "0.1.0"
+
+[[package]]
 name = "number-of-students-unable-to-eat-lunch"
 version = "0.1.0"
 
