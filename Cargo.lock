@@ -91,6 +91,10 @@ name = "possible-bipartition"
 version = "0.1.0"
 
 [[package]]
+name = "removing-minimum-number-of-magic-beans"
+version = "0.1.0"
+
+[[package]]
 name = "score-of-parentheses"
 version = "0.1.0"
 
