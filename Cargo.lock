@@ -107,6 +107,10 @@ name = "shortest-subarray-with-sum-at-least-k"
 version = "0.1.0"
 
 [[package]]
+name = "split-array-largest-sum"
+version = "0.1.0"
+
+[[package]]
 name = "split-strings-by-separator"
 version = "0.1.0"
 

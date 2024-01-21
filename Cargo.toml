@@ -3,6 +3,7 @@
 members = [
     "two-sum",
     "add-two-numbers", # 2
+    "split-array-largest-sum", # 410
     "max-chunks-to-make-sorted", # 769
     "k-th-symbol-in-grammar", # 779
     "letter-case-permutation", # 784
