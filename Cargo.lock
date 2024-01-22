@@ -43,6 +43,10 @@ name = "goal-parser-interpretation"
 version = "0.1.0"
 
 [[package]]
+name = "implement-queue-using-stacks"
+version = "0.1.0"
+
+[[package]]
 name = "k-th-symbol-in-grammar"
 version = "0.1.0"
 

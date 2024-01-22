@@ -3,6 +3,7 @@
 members = [
     "two-sum",
     "add-two-numbers", # 2
+    "implement-queue-using-stacks", # 232
     "split-array-largest-sum", # 410
     "max-chunks-to-make-sorted", # 769
     "k-th-symbol-in-grammar", # 779
