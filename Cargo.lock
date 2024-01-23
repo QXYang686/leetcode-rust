@@ -59,6 +59,10 @@ name = "linked-list-components"
 version = "0.1.0"
 
 [[package]]
+name = "longest-alternating-subarraylongest-alternating-subarraylongest-alternating-subarray"
+version = "0.1.0"
+
+[[package]]
 name = "max-chunks-to-make-sorted"
 version = "0.1.0"
 

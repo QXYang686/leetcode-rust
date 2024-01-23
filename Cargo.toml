@@ -29,6 +29,7 @@ members = [
     "count-common-words-with-one-occurrence", # 2085
     "removing-minimum-number-of-magic-beans", # 2171
     "find-maximum-number-of-string-pairs", # 2744
+    "longest-alternating-subarraylongest-alternating-subarraylongest-alternating-subarray", # 2765
     "split-strings-by-separator", # 2788
     "minimum-time-to-make-array-sum-at-most-x", # 2809
 ]
