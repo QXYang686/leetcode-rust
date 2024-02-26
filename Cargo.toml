@@ -18,6 +18,7 @@ members = [
     "numbers-at-most-n-given-digit-set", # 902
     "fruit-into-baskets", # 904
     "partition-array-into-disjoint-intervals", # 915
+    "range-sum-of-bst", # 938
     "distinct-subsequences-ii", # 940
     "maximum-profit-in-job-scheduling", # 1235
     "build-an-array-with-stack-operations", # 1441
