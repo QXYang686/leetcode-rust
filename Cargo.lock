@@ -39,6 +39,10 @@ name = "find-the-original-typed-string-i"
 version = "0.1.0"
 
 [[package]]
+name = "find-the-original-typed-string-ii"
+version = "0.1.0"
+
+[[package]]
 name = "fruit-into-baskets"
 version = "0.1.0"
 

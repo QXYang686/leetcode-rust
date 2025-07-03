@@ -35,4 +35,5 @@ members = [
     "split-strings-by-separator", # 2788
     "minimum-time-to-make-array-sum-at-most-x", # 2809
     "find-the-original-typed-string-i", # 3330
+    "find-the-original-typed-string-ii", # 3333
 ]
